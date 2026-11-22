@@ -1829,3 +1829,9 @@ input[type="radio"]:not(:disabled),
     background-color: #1e40af;
   }
 }
+/* Teks rata kiri-kanan di semua ukuran layar */
+p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
