@@ -1843,3 +1843,8 @@ p {
   text-justify: inter-word;
   hyphens: auto;
 }
+
+/* Jaga agar nama belakang + gelar tidak terpisah antar baris */
+.nowrap {
+  white-space: nowrap;
+}
