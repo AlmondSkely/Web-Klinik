@@ -1,5 +1,5 @@
 const CLINIC_CONFIG = {
-  name: "Praktek Dokter Umum dr. Suwanda Hendrawan, MARS",
+  name: "Praktek Dokter Mandiri dr. Suwanda Hendrawan, MARS",
   whatsappNumber: "6287762780631",
   gallery: [
     {
